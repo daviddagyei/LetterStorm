@@ -28,6 +28,10 @@ LetterStorm is a fun and interactive game where random letters fall from the top
     ```bash
     pip install pygame
     ```
+3. **Pull required files**:
+
+    ```git pull
+    ```
 
 ## Running the Game
 
