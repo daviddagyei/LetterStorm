@@ -30,7 +30,8 @@ LetterStorm is a fun and interactive game where random letters fall from the top
     ```
 3. **Pull required files**:
 
-    ```git pull
+    ```bash
+    git pull
     ```
 
 ## Running the Game
