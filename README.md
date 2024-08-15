@@ -52,5 +52,4 @@ LetterStorm is a fun and interactive game where random letters fall from the top
 - The game ends if three letters are missed.
 
 
-## Repository Structure
 
