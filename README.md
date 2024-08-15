@@ -23,14 +23,7 @@ LetterStorm is a fun and interactive game where random letters fall from the top
     cd LetterStorm
     ```
 
-2. **Set up a virtual environment (optional but recommended)**:
-
-    ```bash
-    python -m venv venv
-    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-    ```
-
-3. **Install the required dependencies**:
+2. **Install the required dependencies**:
 
     ```bash
     pip install pygame
@@ -53,11 +46,6 @@ LetterStorm is a fun and interactive game where random letters fall from the top
 - Each correct input scores points.
 - The game ends if three letters are missed.
 
-## Assets
-
-Place your background image in the `assets/images` directory with the filename `background.png`.
-
-Place your sound effect file in the `assets/sounds` directory with the filename `score.wav`.
 
 ## Repository Structure
 
