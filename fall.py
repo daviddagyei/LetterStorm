@@ -9,7 +9,7 @@ pygame.init()
 SCREEN_WIDTH = 800
 SCREEN_HEIGHT = 600
 SCREEN = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
-pygame.display.set_caption('Falling Letters')
+pygame.display.set_caption('LetterStorm')
 
 # Colors
 WHITE = (255, 255, 255)
